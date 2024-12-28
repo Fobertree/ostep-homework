@@ -76,3 +76,8 @@ Chapter | What To Do
 [Distributed Intro](http://www.cs.wisc.edu/~remzi/OSTEP/dist-intro.pdf) | Write some code
 [NFS](http://www.cs.wisc.edu/~remzi/OSTEP/dist-nfs.pdf) | Write some analysis code
 [AFS](http://www.cs.wisc.edu/~remzi/OSTEP/dist-afs.pdf) | Run [afs.py](dist-afs)
+
+Disabled push upstream via
+`git remote set-url --push upstream no_push`
+
+Putting work in branch 'mine'
